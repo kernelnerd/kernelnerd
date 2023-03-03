@@ -1,5 +1,5 @@
 ### Hi there 👋
-### i am a cheat developer
+### i am a  developer
 # discord: kernelnerd#3365
 
 <!--
